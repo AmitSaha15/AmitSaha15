@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmitSaha15
 - 👀 I’m interested in coding, web development, UI/UX designing, graphic designing, video editing etc.
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
