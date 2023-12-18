@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsaha15&label=Profile%20views&color=0e75b6&style=flat" alt="amitsaha15" /> </p>
 
-- 🔭 I’m currently working on End Sem Exam😅
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Data Science**
 
