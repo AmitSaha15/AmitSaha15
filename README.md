@@ -9,7 +9,7 @@
 
 - 💬 Ask me about JavaScript, React, Python & Java
 
-- 📫 How to reach me **asaha.bwn2000@gmail.com**
+- 📫 How to reach me **amitsahawork42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
