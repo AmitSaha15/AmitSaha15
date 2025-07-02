@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about JavaScript, React, Python & Java
 
